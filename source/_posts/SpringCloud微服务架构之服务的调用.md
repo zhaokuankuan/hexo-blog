@@ -1,7 +1,9 @@
----
+﻿---
 title: SpringCloud微服务架构之服务的调用
-date: 2018-07-03 12:10:50
-tags:
+comments: true
+tags: [SpringCloud ,java]
+categories: [微服务架构]
+date: 2018-08-11 17:34:31
 ---
 
 **微服务架构中，业务都会被拆分成一个独立的服务，服务与服务的通讯是基于http restful的。Spring cloud有两种服务调用方式，一种是ribbon+restTemplate，另一种是feign。接下来分别对这两种的进行讲解。服务的调用还是在上一节[服务的注册和发现](https://blog.csdn.net/zhaokk_git/article/details/80228880)的基础上进行的。**

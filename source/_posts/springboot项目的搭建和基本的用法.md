@@ -1,7 +1,9 @@
 ---
 title: springboot项目的搭建和基本的用法
-date: 2018-07-03 12:11:36
-tags:
+comments: true
+tags: [Springboot ,java]
+categories: [微服务架构]
+date: 2018-08-11 17:34:31
 ---
 初涉springboot，学习小记，用于学习，简单介绍下如何去创建一个简单的的springboot工程。本人这里使用idea操作的。
 **一.首先需要创建一个工程：new project,选择Spring Initalizr。**

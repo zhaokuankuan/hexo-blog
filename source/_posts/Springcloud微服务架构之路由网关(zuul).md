@@ -1,7 +1,9 @@
----
-title: 从零开始学习SpringCloud
-date: 2018-07-03 12:08:24
-tags:
+﻿---
+title: Springcloud微服务架构之路由网关(zuul)
+comments: true
+tags: [SpringCloud ,java]
+categories: [微服务架构]
+date: 2018-08-11 17:34:31
 ---
 **Springcloud微服务架构之路由网关(zuul)**
 
