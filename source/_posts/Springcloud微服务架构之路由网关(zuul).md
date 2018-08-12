@@ -122,3 +122,4 @@ public class MyFilter extends ZuulFilter {
 **在此感谢，两位大佬的博客，我是根据以上大佬的博客学习的！**
  [方志鹏的springcloud微服务架构](https://blog.csdn.net/forezp/article/details/70148833) 
  [纯洁的微笑](http://www.ityouknow.com/spring-cloud.html)
+
