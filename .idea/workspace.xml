@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c26a4b0e-0d93-49c2-ac61-aeb79ca0f540" name="Default" comment="">
+    <list default="true" id="c26a4b0e-0d93-49c2-ac61-aeb79ca0f540" name="Default" comment="主题修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/pure" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure" afterDir="false" />
     </list>
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="76">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pv.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pv.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/pure/layout/_partial/post/pv.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="133">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -162,6 +162,11 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,6 +220,7 @@
       <workItem from="1533964553242" duration="21770000" />
       <workItem from="1534058616263" duration="10514000" />
       <workItem from="1534124547203" duration="53000" />
+      <workItem from="1534395733474" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1533982397091</created>
@@ -248,19 +254,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40782000" />
+    <option name="totallyTimeSpent" value="41628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19418758" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21664464" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.501321" side_tool="true" weight="0.6233383" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4993395" weight="0.2703102" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.501321" side_tool="true" weight="0.33677992" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49867898" weight="0.33677992" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49867898" visible="true" weight="0.47562778" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49867898" weight="0.47492626" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -276,19 +283,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26948482" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4993395" weight="0.2703102" />
       <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4993395" weight="0.40620384" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5006605" side_tool="true" weight="0.5155096" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4993395" weight="0.2703102" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -304,7 +311,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="主题修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="主题修改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/pure/source/images/kaola.jpg">
@@ -540,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2299">
@@ -563,8 +564,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/pure/layout/_partial/post/pv.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
